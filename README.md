@@ -9,6 +9,7 @@ Then:
 
 ```
 yarn install
+yarn start
 cd ios
 pod install
 yarn ios
